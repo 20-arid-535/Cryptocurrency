@@ -28,7 +28,7 @@ To get started with the Weather App, follow these steps:
 2. **Run on VS Code:**
 
 ## Screenshots
-<p><img src="cryptohome.jpeg.jpeg" width="200" >    </p>
+<p><img src="cryptohome.jpeg" width="200" >    </p>
 
 
 ## Contact
