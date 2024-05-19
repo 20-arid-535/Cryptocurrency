@@ -1,4 +1,4 @@
-# BurgerLab
+# CryptoCurrency
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -8,9 +8,7 @@
 9. [Contact](#contact)
 
 ## Introduction
-A sophisticated online food order mobile app build using
-Flutter for Android, featuring a responsive UI and seamless
-user experience.
+Android kotlin app for crypto currency values.
 
 ## Features
 - Customize burger
@@ -30,7 +28,7 @@ To get started with the Weather App, follow these steps:
 2. **Run on VS Code:**
 
 ## Screenshots
-<p><img src="splashburger.jpeg" width="200" >    <img src="homeburger.jpeg" width="200" >    <img src="customburger.jpeg" width="200" ></p>
+<p><img src="cryptohome.jpeg.jpeg" width="200" >    </p>
 
 
 ## Contact
